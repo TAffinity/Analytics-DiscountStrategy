@@ -44,6 +44,17 @@ Companies often use discounts to increase sales, but:
 
 ---
 
+## 📈 Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
 ## 📁 Project Structure
 
 - `notebook.ipynb` — Full analysis pipeline (EDA, visualization, insights)
