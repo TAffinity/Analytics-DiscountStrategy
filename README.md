@@ -1,5 +1,7 @@
 # 📊 Analytics Discount Strategy
 
+Analytics project focused on pricing strategy, revenue optimization, and data-driven decision making.
+
 ## 🚀 Project Overview
 
 This project analyzes the impact of discount strategies on sales performance, profitability, and customer behavior.
@@ -42,17 +44,6 @@ Companies often use discounts to increase sales, but:
 
 ---
 
-## 📈 Tools & Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
----
-
 ## 📁 Project Structure
 
 - `notebook.ipynb` — Full analysis pipeline (EDA, visualization, insights)
@@ -71,7 +62,3 @@ Proper discount calibration allows companies to:
 - Improve long-term customer value
 
 ---
-
-## 🚀 Author
-
-Analytics project focused on pricing strategy, revenue optimization, and data-driven decision making.
