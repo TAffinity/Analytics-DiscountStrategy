@@ -55,21 +55,20 @@ Companies often use discounts to increase sales, but:
 
 ---
 
-## 📁 Project Structure
-
-- `notebook.ipynb` — Full analysis pipeline (EDA, visualization, insights)
-- `data/` — Raw and processed datasets
-- `README.md` — Project documentation
+## 🚀 Running the Notebook
 
 ---
 
 ## 💡 Key Takeaway
 
 This analysis demonstrates that discounting is not just a sales tool, but a **strategic lever for profitability optimization**.
-
 Proper discount calibration allows companies to:
 - Increase revenue efficiency
 - Protect margins
 - Improve long-term customer value
+
+---
+
+## 🚀 Running the Notebook
 
 ---
